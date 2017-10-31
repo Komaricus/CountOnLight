@@ -1,0 +1,6 @@
+C:\Users\Александр\Documents\GitHub\CountOnLight\CountOnLight\bin\Debug\CountOnLight.exe
+C:\Users\Александр\Documents\GitHub\CountOnLight\CountOnLight\bin\Debug\CountOnLight.pdb
+C:\Users\Александр\Documents\GitHub\CountOnLight\CountOnLight\obj\x86\Debug\CountOnLight.csprojResolveAssemblyReference.cache
+C:\Users\Александр\Documents\GitHub\CountOnLight\CountOnLight\obj\x86\Debug\CountOnLight.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\GitHub\CountOnLight\CountOnLight\obj\x86\Debug\CountOnLight.exe
+C:\Users\Александр\Documents\GitHub\CountOnLight\CountOnLight\obj\x86\Debug\CountOnLight.pdb
